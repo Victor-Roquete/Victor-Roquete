@@ -66,8 +66,8 @@ Building solutions adapted to local business challenges in Angola, with the abil
 Contact
 
 - Email: victorroguete380@gmail.com
-- GitHub: https://github.com/your-username
-- LinkedIn: (add your profile here)
+- GitHub: https://github.com/victor-roquete
+
 
 
 ⚡ Fun Fact
