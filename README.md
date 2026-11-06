@@ -1,75 +1,63 @@
-  Hi, I'm Victor Roquete 
+ Victor Roquete
 
-   Odoo Developer | Python Backend
-   Building business solutions with Odoo
+ Software Developer | AI | Automation | Computer Vision
+
+Building software, intelligent systems and digital solutions for real-world problems.
+
 📍 Luanda, Angola
 
 
+ About Me
 
-  About Me
+I am a Software Developer focused on building practical software solutions, intelligent systems and technology-driven applications.
 
-I am an Odoo-focused developer with a strong interest in backend development using Python and building business solutions tailored to real-world problems.
+My interests and technical work span software engineering, artificial intelligence, computer vision, automation and backend development.
 
-I am currently focused on developing scalable and efficient Odoo modules, improving business processes, and integrating external systems.
+I enjoy exploring how software and AI can solve real-world challenges, improve business processes and create useful digital products.
 
-I aim to deliver practical solutions, especially for emerging markets like Angola.
+My approach combines software development fundamentals, technical problem-solving and continuous learning.
 
-🛠️ Tech Stack
+Areas of Focus
 
-- Python (Core Language)
-- Odoo Framework (v16, v17, v18)
-- PostgreSQL
-- OWS
-- XML (Views & Reports)
-- Git & GitHub
-- Linux (Development Environment)
-- REST API Integration
+- **Software Engineering:** Backend development, application architecture and business systems.
+- **Artificial Intelligence:** AI applications and intelligent systems.
+- **Computer Vision:** Object detection, image processing and video analytics.
+- **Automation:** Workflow automation and system integration.
+- **Business Applications:** ERP customization and enterprise solutions.
 
+ Technology Stack
 
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, C# |
+| AI & Computer Vision | YOLO, OpenCV, CVAT |
+| ERP & Business Systems | Odoo |
+| Backend & APIs | Python, REST APIs |
+| Databases | PostgreSQL, SQLite |
+| Web Development | JavaScript, TypeScript |
+| Tools & Environment | Git, GitHub, Linux, Docker |
 
-Odoo Expertise
+Engineering Interests
 
-- Custom module development
-- Model creation (models.Model)
-- XML views (form, tree, kanban)
-- Security & access control (ACL, record rules)
-- Business logic with @api.depends, @api.onchange
-- API integrations
-- Debugging and server-side issue resolution
-- Report customization (PDF / wkhtmltopdf)
+- Intelligent software systems
+- Computer vision applications
+- AI-powered automation
+- Backend engineering
+- Enterprise software
+- Digital product development
+- Scalable and maintainable applications
 
-📂 Featured Projects
+ Projects
 
-🔹 Business Management Module
+I use GitHub to document, develop and share technical projects across software engineering, AI, automation and computer vision.
 
-- Entity registration
-- Status control (active/inactive)
-- Chatter integration for tracking
+Explore my repositories to see implementations, technical decisions and ongoing work.
 
-🔹 Custom Report Module
+ Connect
 
-- PDF report customization
-- wkhtmltopdf error handling
-- Layout improvements
+- LinkedIn: Victor Roquetehttps://www.linkedin.com/in/victor-roquete-505a30257
+- Instagram: Victor Roquete
+- GitHub:Victor-Roquete https://github.com/Victor-Roquete
+- Email:victorroguete380@gmail.com
 
-➡️ More projects coming soon...
-
-Career Objective
-
-I am looking for an opportunity as an Odoo Developer (Junior), where I can contribute to real-world projects, grow technically, and deliver impactful business solutions.
-
-
-Market Focus
-
-Building solutions adapted to local business challenges in Angola, with the ability to scale to international markets.
-
-Contact
-
-- Email: victorroguete380@gmail.com
-- GitHub: https://github.com/victor-roquete
-
-
-
-⚡ Fun Fact
-
-I enjoy solving real business problems through technology and continuously improving my skills in the Odoo ecosystem.
+Building technology. Solving problems. Engineering solutions.
